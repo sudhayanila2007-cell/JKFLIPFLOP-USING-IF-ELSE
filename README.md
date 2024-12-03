@@ -67,4 +67,5 @@ endmodule
 
 
 **RESULTS**
+
 Thus the JK flipflop is implemented and verified.
